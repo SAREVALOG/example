@@ -1,1 +1,1 @@
-# example
+# linear regression exercise 
